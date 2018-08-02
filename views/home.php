@@ -33,7 +33,7 @@
 						<h2>
 							Preencha o formulário e inicie a sua caminhada para virar um webmaster!
 						</h2>
-						<form method="POST" action="sendEmail.php">
+						<form method="POST" action="/home">
 							<div class="input-container">
 								<span>Nome*</span>
 								<input type="text" name="nome" required />
