@@ -1,4 +1,4 @@
-Author: Hernany Antonio Dias Motoso 
+Author: Hernany Antonio Dias Motoso -
 Linkedin: www.linkedin.com/in/hernany-antonio-dias-motoso-b2b47b10a 
 
 
